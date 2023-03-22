@@ -7195,14 +7195,14 @@ Verilog:
   type: programming
   color: "#e5142a"
   extensions:
-  - ".vmk"
+  - ".vml"
   - ".vmls"
   - ".evml"
   tm_scope: source.vml
   ace_mode: vermilion
   codemirror_mode: vermilion
   codemirror_mime_type: text/x-vermilion
-  language_id: 17032023
+  language_id: 3899
 Vim Help File:
   type: prose
   color: "#199f4b"
