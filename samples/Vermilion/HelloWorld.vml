@@ -1,0 +1,8 @@
+require("vermilion")
+
+# Comments
+class Main:
+  fun main():
+    print("Hello World!")
+  end
+end
